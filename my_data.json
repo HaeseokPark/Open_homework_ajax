@@ -1,0 +1,66 @@
+{
+    "students": [
+      {
+        "id": "1",
+        "name": "Jerry",
+        "age": 20,
+        "gender": "Man"
+      },
+      {
+        "id": "2",
+        "name": "Tom",
+        "age": 18,
+        "gender": "Man"
+        
+      },
+      {
+        "id": "3",
+        "name": "James",
+        "age": 21,
+        "gender": "Man"
+      },
+      {
+        "id": "4",
+        "name": "Mike",
+        "age": 19,
+        "gender": "Man"
+      },
+      {
+        "id": "5",
+        "name": "Lisa",
+        "age": 24,
+        "gender": "Woman"
+      },
+      {
+        "id": "6",
+        "name": "Sophia",
+        "age": 23,
+        "gender": "Woman"
+      },
+      {
+        "id": "7",
+        "name": "Olivia",
+        "age": 24,
+        "gender": "Woman"
+      },
+      {
+        "id": "8",
+        "name": "Madison",
+        "age": 28,
+        "gender": "Man"
+      },
+      {
+        "id": "9",
+        "name": "Harper",
+        "age": 30,
+        "gender": "Man"
+      },
+      {
+        "id": "10",
+        "name": "Grace",
+        "age": 27,
+        "gender": "Woman"
+      }
+    ]
+   
+  }
